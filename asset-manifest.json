@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Predictor/static/css/main.e6eb828e.css",
+    "main.js": "/Predictor/static/js/main.ed505bca.js",
+    "static/js/453.5312e64e.chunk.js": "/Predictor/static/js/453.5312e64e.chunk.js",
+    "static/media/west_indies.png": "/Predictor/static/media/west_indies.1c506fceab10f3da4339.png",
+    "static/media/afghanistan.png": "/Predictor/static/media/afghanistan.a5f4b6b27d1891e5958b.png",
+    "static/media/sri_lanka.png": "/Predictor/static/media/sri_lanka.84546f16332c0ce97567.png",
+    "static/media/australia.png": "/Predictor/static/media/australia.46269c1105253dfb9d25.png",
+    "static/media/new_zealand.png": "/Predictor/static/media/new_zealand.8714caad45a06888b4da.png",
+    "static/media/south_africa.png": "/Predictor/static/media/south_africa.821178718276262a34ee.png",
+    "static/media/pakistan.png": "/Predictor/static/media/pakistan.e5aabd307355558c7f7e.png",
+    "static/media/india.png": "/Predictor/static/media/india.be08e68d113168b54197.png",
+    "static/media/bangladesh.png": "/Predictor/static/media/bangladesh.4128ea3d3c4baf0e5cc3.png",
+    "index.html": "/Predictor/index.html",
+    "main.e6eb828e.css.map": "/Predictor/static/css/main.e6eb828e.css.map",
+    "main.ed505bca.js.map": "/Predictor/static/js/main.ed505bca.js.map",
+    "453.5312e64e.chunk.js.map": "/Predictor/static/js/453.5312e64e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6eb828e.css",
+    "static/js/main.ed505bca.js"
+  ]
+}
